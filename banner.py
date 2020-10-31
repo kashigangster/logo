@@ -11,7 +11,7 @@ def banner():
 {C}| |\/| || ___ \  _| {Whtsapp Num   {r}:+923062045786
 {C}| |  | || |_/ / |   {C}GIFT FOR{r}:PUBG and FREE FIRE 
 {C}\_|  |_/\____/\_|   {M}YOUTUBE  {r}:KASHI-TEACH
-            """
+            
 CorrectUsername = "Speedi"
 CorrectPassword = "Kashi"
 
